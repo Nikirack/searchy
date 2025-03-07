@@ -1,0 +1,10 @@
+{
+  "!g": "https://www.google.com/search?q=",
+  "!d": "https://duckduckgo.com/?q=",
+  "!w": "https://en.wikipedia.org/w/index.php?search=",
+  "!yt": "https://www.youtube.com/results?search_query=",
+  "!gh": "https://github.com/search?q=",
+  "!so": "https://stackoverflow.com/search?q=",
+  "!r": "https://www.reddit.com/r/all/search/?q=",
+  "!gi": "https://www.google.com/search?tbm=isch&q="
+}
