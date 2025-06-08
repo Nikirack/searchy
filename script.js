@@ -22,7 +22,10 @@ function handleQueryString() {
         return;
       }
     }
-
+    if (q.startsWith("r/")){
+      window.location.href = `https://www.reddit.com/${q}`;
+      return;
+    }
     window.location.href = `https://www.google.com/search?q=${encodeURIComponent(q)}`;
   }
 }
