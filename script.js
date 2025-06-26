@@ -26,6 +26,6 @@ function handleQueryString() {
       window.location.href = `https://www.reddit.com/${q}`;
       return;
     }
-    window.location.href = `https://www.google.com/search?q=${encodeURIComponent(q)}`;
+    window.location.href = `https://duckduckgo.com/?q=${encodeURIComponent(q)}`;
   }
 }
