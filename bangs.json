@@ -1,6 +1,7 @@
 {
   "!g": "https://www.google.com/search?q=",
   "!d": "https://duckduckgo.com/?q=",
+  "!b": "https://search.brave.com/search?q=",
   "!w": "https://en.wikipedia.org/w/index.php?search=",
   "!yt": "https://www.youtube.com/results?search_query=",
   "!gh": "https://github.com/search?q=",
